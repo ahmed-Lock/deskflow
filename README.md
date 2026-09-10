@@ -37,12 +37,6 @@ The frontend contains the dashboard interface.
 Additional documentation can be found in the docs
 directory.
 
-Contributors
-
-Ahmed K.
-Yusuf B.
-ByteWalker
-
 Status
 
 The project is no longer actively developed.
